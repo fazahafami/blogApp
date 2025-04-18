@@ -17,7 +17,7 @@ use the following steps for the first TIME
 1)check the mail > view the invitation > accept the invitation 
 to clone the project -
 2)create a folder in your computer -open cmd from it- git clone url
-in our case the url is https://github.com/fazahafami/pawMart_frontend.git
+in our case the url is https://github.com/fazahafami/sample.git
 3)cd pawMart_frontend
 4)code .
 5)npm install
@@ -40,4 +40,4 @@ use the following steps everyday before making changes
 -----------------------------------------------------
 1)go your created  project folder - open cmd 
 git pull url
-url- https://github.com/fazahafami/pawMart_frontend.git
+url- https://github.com/fazahafami/sample.git
